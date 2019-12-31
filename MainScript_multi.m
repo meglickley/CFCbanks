@@ -22,7 +22,7 @@ y1 = 1955; % Year Start Date
 y2 = 2016; % Year End Date
 years = y1:y2;
 Nyears = length(years);
-N = 5*10^5;
+N = 10^6;
 Nresamps = 10^5;
 
 %% Change HomeDirectory name
